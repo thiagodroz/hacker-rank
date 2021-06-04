@@ -1,0 +1,11 @@
+{
+  "name": "hacker-rank",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/thiagodroz/hacker-rank.git",
+  "author": "Thiago Nogueira <tnogueira@avantstay.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/node": "^15.12.0"
+  }
+}
